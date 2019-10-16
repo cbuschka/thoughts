@@ -30,6 +30,3 @@ Der Output pendelt sich mit einer Durchlaufzeit der Stories zwischen 3-3,5 Tagen
 
 ### Ständige Verbesserung
 * Die 3-wöchige Retro stellt sicher, dass Erkenntnisse gesammelt und ausgewertet werden und zu Verbesserungsmaßnahmen umgewandelt werden.
-
-## License
-[WTFPL-2](./license.txt)
